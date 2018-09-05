@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+.resume{
+    width: 800px;
+    margin: 0 auto;
+    height: 750px;
+    margin-top: 10px;
+    overflow: hidden;
+    background-color: rgb(236, 234, 234);
+}
+.res-title{
+    float: left;
+    background-color:rgb(85, 152, 240);
+    width: 150px;
+    height: 100%;
+    padding: 35px;
+    color: white;
+    box-sizing: border-box;
+}
+h2, ul{
+    margin: 15px;
+    margin-left: 160PX;
+}
+li{
+    display: inline-block;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+span{
+    font-weight: normal;
+    margin-left: 8px;
+}
