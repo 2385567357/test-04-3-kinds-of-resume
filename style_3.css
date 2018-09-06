@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+.resume{
+    width: 800px;
+    margin: 0 auto;
+    height: 750px;
+    margin-top: 10px;
+    overflow: hidden;
+    background-color: rgb(236, 234, 234);
+}
+h1{
+    float: left;
+    height:60px;
+    width: 100%;
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 22px;
+    box-sizing: border-box;
+    color: white;
+    background-color:rgb(119, 118, 118);
+}
+h2{
+    float: left;
+    height:110px;
+    width: 110px;
+    font-size: 15px;
+    line-height: 110px;
+    text-align: center;
+    background-color: rgb(151, 150, 150);
+    clear:left;
+    border-bottom: 1px solid #000;
+    box-sizing: border-box;
+}
+.inf{
+    height: 170px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    padding-left: 125px;
+    padding-top: 10px;
+}
+
+.con,.abi,.edu,.pro{
+    height: 110px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    padding-left: 125px;
+    padding-top: 10px;
+
+}
+li{
+    display: inline-block;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+span{
+    font-weight: normal;
+    margin-left: 8px;
+}
+
+
+
